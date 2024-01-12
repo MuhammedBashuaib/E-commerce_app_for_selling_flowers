@@ -1,6 +1,6 @@
 # E-commerce_app_for_selling_flowers
 
-The e-commerce application for selling flowers was built using the Flutter framework. The code is organized, and the reusable Widgets. State management was implemented using Provider.
+The e-commerce application for selling flowers was built using the Flutter framework. The code is clean, and the reusable Widgets. State management was implemented using Provider.
 
 ## Interface
 <div>
